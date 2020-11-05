@@ -16,8 +16,8 @@
 16.
 17.	Создаём репозиторий на GITHUB и связываем его с проектом
 18.
-19.	git remote add origin https://github.com/Martin937/tabs.git	Прописываем путь к github
-20.	git remote set-url origin https://github.com/Martin937/tabs.git	Если нужно изменить уже существующий
+19.	git remote add origin https://github.com/Martin937/timer.git	Прописываем путь к github
+20.	git remote set-url origin https://github.com/Martin937/timer.git	Если нужно изменить уже существующий
 21.	git push -u origin master	Заливка на github
 22.	git pull	Обновление всех связей и изменений
 23.	git push	Заливка на github
